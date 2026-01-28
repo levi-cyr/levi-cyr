@@ -1,27 +1,23 @@
-## Hey.
-### Hard Skills
-<body>
-  <div style="display: inline_block">
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />        
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />                  
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />       
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  </div>
-</body>
+# Levi | Full Stack 
+> "I won't scatter your sorrow to the heartless sea."
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-DEVELOPER-00D4FF?style=for-the-badge&logoColor=white" />
+</p>
 
+---
 
-<!--
-**levi-cyr/levi-cyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌑 Hard Skills
+<div style="display: inline_block">
+  <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img height="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
 
-Here are some ideas to get you started:
+![Levi's Stats](https://github-readme-stats.vercel.app/api?username=levi-cyr&show_icons=true&theme=tokyonight&border_color=00D4FF)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📱 Connected to the Network
+[LinkedIn](https://www.linkedin.com/in/levicy/) | [GitHub](https://github.com/levi-cyr)
