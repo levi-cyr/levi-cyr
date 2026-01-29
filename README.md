@@ -30,10 +30,20 @@
 </div>
 
 ---
+<img
+  align="left"
+  height="200px"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats-iota-orpin-31.vercel.app/api?username=levi-cyr&show_icons=true&theme=transparent&border_color=00D4FF"
+/>
+<img
+  align="left"
+  height="200px"
+  src="https://github-readme-stats-iota-orpin-31.vercel.app/api/top-langs/?username=levi-cyr&stats_format=bytes&layout=compact"
+/>
+<!--![Levi's Stats](https://github-readme-stats-iota-orpin-31.vercel.app/api?username=levi-cyr&show_icons=true&theme=transparent&border_color=00D4FF)
+![Top Langs](https://github-readme-stats-iota-orpin-31.vercel.app/api/top-langs/?username=levi-cyr&stats_format=bytes&layout=compact)-->
 
-![Levi's Stats](https://github-readme-stats-iota-orpin-31.vercel.app/api?username=levi-cyr&show_icons=true&theme=tokyonight&border_color=00D4FF)
-
----
 <!--### 📱 Connected to the Network
 [LinkedIn](https://www.linkedin.com/in/levicy/) | [GitHub](https://github.com/levi-cyr)
 -->
