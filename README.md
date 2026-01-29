@@ -32,18 +32,12 @@
 ---
 <img
   align="left"
-  height="200px"
+  alt="GitHubStats"
   style="padding-right: 10px;"
-  src="https://github-readme-stats-iota-orpin-31.vercel.app/api?username=levi-cyr&show_icons=true&theme=transparent&border_color=00D4FF"
+  src="https://github-readme-stats-iota-orpin-31.vercel.app/api?username=levi-cyr&show_icons=true&theme=transparent&border_color=00D4FF&include_all_commits=true"
 />
 <img
   align="left"
-  height="200px"
-  src="https://github-readme-stats-iota-orpin-31.vercel.app/api/top-langs/?username=levi-cyr&stats_format=bytes&layout=compact"
+  alt="Tecnologias"
+  src="https://github-readme-stats-iota-orpin-31.vercel.app/api/top-langs/?username=levi-cyr&stats_format=bytes&theme=transparent&layout=compact&custom_title=Tecnologias&border_color=00D4FF&langs_count=9"
 />
-<!--![Levi's Stats](https://github-readme-stats-iota-orpin-31.vercel.app/api?username=levi-cyr&show_icons=true&theme=transparent&border_color=00D4FF)
-![Top Langs](https://github-readme-stats-iota-orpin-31.vercel.app/api/top-langs/?username=levi-cyr&stats_format=bytes&layout=compact)-->
-
-<!--### 📱 Connected to the Network
-[LinkedIn](https://www.linkedin.com/in/levicy/) | [GitHub](https://github.com/levi-cyr)
--->
