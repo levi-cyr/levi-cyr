@@ -29,8 +29,11 @@
   <img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-![Levi's Stats](https://github-readme-stats.vercel.app/api?username=levi-cyr&show_icons=true&theme=tokyonight&border_color=00D4FF)
+---
+
+![Levi's Stats](https://github-readme-stats-iota-orpin-31.vercel.app/api?username=levi-cyr&show_icons=true&theme=tokyonight&border_color=00D4FF)
 
 ---
-### 📱 Connected to the Network
+<!--### 📱 Connected to the Network
 [LinkedIn](https://www.linkedin.com/in/levicy/) | [GitHub](https://github.com/levi-cyr)
+-->
