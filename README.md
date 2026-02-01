@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./Assets/header.png" alt="System Access Granted" width="100%">
+  <img src="./Assets/header.png" alt="header" width="100%">
 </p>
 
 <p align="center">
-  <img src="./Assets/content.png" alt="System Capabilities" width="100%">
+  <img src="./Assets/content.png" alt="content" width="100%">
 </p>
 
 ---
